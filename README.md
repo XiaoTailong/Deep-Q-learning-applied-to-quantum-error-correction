@@ -11,3 +11,4 @@ RL:
   For the reinforcement learning part I was strongly inspired by the paper (https://arxiv.org/pdf/1312.5602.pdf) Playing Atari with Deep Reinforcement Learning. 
   all the different hyperparameters can be tuned in the run.py file and several different networks can be applied. The neural network is implemented in pytorch.
   
+This work is still in progress. 
